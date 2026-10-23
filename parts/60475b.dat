@@ -4,5 +4,6 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2013-12-30 {Roland Melkert} Initial info for 60475b.dat
+0 !HISTORY 2026-10-23 {shangaslammi} Include the brick socket directly; includes are not recursive
 
-0 !LDCAD SNAP_INCL [ref=60475a.dat]
+0 !LDCAD SNAP_INCL [ref=s\3005s01.dat]
