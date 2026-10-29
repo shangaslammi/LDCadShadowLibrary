@@ -1,0 +1,8 @@
+0 LDCad shadow info for "Wheel  2 x 21 with Technic Pin Hole with Integral Rubber Tyre"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-29 {shangaslammi} Initial info for 80441.dat: Technic pin hole
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 6   R 8 2] [pos=0 0 5] [ori=1 0 0 0 0 -1 0 1 0]

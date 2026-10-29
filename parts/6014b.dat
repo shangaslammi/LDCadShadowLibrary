@@ -1,0 +1,8 @@
+0 LDCad shadow info for "Wheel Rim 12 x 11 with Notched Hole"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-29 {shangaslammi} Initial info for 6014b.dat: notched wheel-pin hole
+
+0 !LDCAD SNAP_CYL [group=wpAxHole] [gender=F] [caps=one] [secs=A 4 9   R 6 6] [pos=0 0 8] [ori=1 0 0 0 0 -1 0 1 0]
