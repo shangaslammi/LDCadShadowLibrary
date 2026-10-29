@@ -5,6 +5,8 @@
 
 0 !HISTORY 2025-02-11 {Philippe Hurbain} Initial info for 80497.dat {unofficial}
 0 !HISTORY 2025-10-04 {Roland Melkert} Made official
+0 !HISTORY 2026-10-29 {shangaslammi} Added the hollow studs' holes
 
 0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 10] [ori=1 0 0 0 0 -1 0 1 0]
 0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 4 10] [pos=0 64 36.6] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=0 64 44] [ori=1 0 0 0 0 -1 0 1 0]
