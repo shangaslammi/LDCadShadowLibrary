@@ -1,0 +1,9 @@
+0 LDCad shadow info for "Car Mudguard  4 x  3 x  1.667"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-31 {shangaslammi} Add underside stud seats on both stepped ends and central span
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 40 0] [grid=C 2 1 60 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 32 0] [grid=C 2 1 20 0]
