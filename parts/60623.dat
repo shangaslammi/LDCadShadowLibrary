@@ -4,6 +4,8 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2015-10-04 {Roland Melkert} Initial info for 60623.dat
+0 !HISTORY 2026-10-29 {shangaslammi} Added the hollow studs' holes
 
 0 !LDCAD SNAP_FGR [group=door] [genderOfs=M] [seq=132] [radius=4] [pos=0 70 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=58 68 7] [ori=1 0 0 0 0 -1 0 1 0]
 0 !LDCAD MIRROR_INFO [baseFlip=Z]

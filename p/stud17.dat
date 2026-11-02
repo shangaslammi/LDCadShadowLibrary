@@ -1,0 +1,8 @@
+0 LDCad shadow info for "Stud Open For Octagonal Parts"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-29 {shangaslammi} Include stud2.dat, hole included: the base edges mark the hole's floor 4 LDU down
+
+0 !LDCAD SNAP_INCL [ref=stud2.dat]

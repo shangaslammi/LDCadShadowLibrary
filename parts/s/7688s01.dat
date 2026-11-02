@@ -1,0 +1,8 @@
+0 LDCad shadow info for "~Dish  4 x  3 Elliptic Quarter"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-29 {shangaslammi} Added the hollow studs' holes
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4.5] [pos=10 -4 10] [ori=1 0 0 0 -1 0 0 0 -1]

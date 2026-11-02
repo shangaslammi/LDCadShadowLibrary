@@ -4,7 +4,10 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2013-12-16 {Roland Melkert} Initial info for 30274.dat
+0 !HISTORY 2026-10-29 {shangaslammi} Added the hollow studs' holes
 
 0 //Anti studs
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 20] [pos=0 24 20] [grid=C 2 1 20 0]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 30] [pos=0 72 0] [grid=C 2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 36] [pos=0 4 0] [ori=1 0 0 0 -1 0 0 0 -1] [grid=C 2 1 20 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 22] [pos=0 4 -20] [ori=1 0 0 0 -1 0 0 0 -1] [grid=C 2 1 20 0]
