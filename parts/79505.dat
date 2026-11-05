@@ -1,0 +1,13 @@
+0 LDCad shadow info for "Technic Rotation Joint Disk with Pin and  2 Perpendicular Click Rotation Ring Sockets"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-11-05 {shangaslammi} Added source-measured disk joints adapting Roland Melkert rotation-pin and clkRot collar metadata
+
+0 //Large rotation joint - 24 positions
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 12 2   R 8 11   _L 9 2] [slide=true] [pos=0 -23 0]
+
+0 //Raised side collars - clkRot ball-family interface for the central pin/ring of 47455
+0 !LDCAD SNAP_CYL [group=clkRot] [gender=M] [caps=one] [secs=R 9.5 5] [pos=15 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [group=clkRot] [gender=M] [caps=one] [secs=R 9.5 5] [pos=-15 0 0] [ori=0 1 0 -1 0 0 0 0 1]
