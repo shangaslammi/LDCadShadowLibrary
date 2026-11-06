@@ -5,9 +5,10 @@
 
 0 !HISTORY 2020-03-14 {Roland Melkert} Initial info for 55817.dat
 0 !HISTORY 2026-10-29 {shangaslammi} Added the hollow studs' holes
+0 !HISTORY 2026-11-06 {shangaslammi} Limited the hollow studs' bar holes to their coaxially clear depth
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 16   R 8 2   R 8.2 4] [slide=true] [ori=1 0 0 0 0 -1 0 1 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 24] [pos=10 10 -24] [ori=1 0 0 0 0 1 0 -1 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 24] [pos=-10 10 -24] [ori=1 0 0 0 0 1 0 -1 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 24] [pos=10 -10 -24] [ori=1 0 0 0 0 1 0 -1 0]
-0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 24] [pos=-10 -10 -24] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=10 10 -24] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=-10 10 -24] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=10 -10 -24] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=-10 -10 -24] [ori=1 0 0 0 0 1 0 -1 0]
