@@ -1,0 +1,8 @@
+0 LDCad shadow info for "Wheel Rim 11 x 18 with Vented Disc Brake"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-11-06 {shangaslammi} Added the hollow studs' holes
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 6] [pos=0 0 -16] [ori=1 0 0 0 0 1 0 -1 0]

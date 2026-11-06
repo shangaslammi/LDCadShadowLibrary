@@ -1,0 +1,8 @@
+0 LDCad shadow info for "~Brick  1 x  2 x  5 with Hollow Studs and Asymmetric Inner Ridges - Hollow Studs"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-11-06 {shangaslammi} Added the hollow studs' holes
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=0 -4 0] [ori=1 0 0 0 -1 0 0 0 -1] [grid=C 2 1 20 0]

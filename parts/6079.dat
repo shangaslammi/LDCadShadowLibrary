@@ -4,5 +4,7 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2015-10-03 {Roland Melkert} Initial info for 6079.dat
+0 !HISTORY 2026-11-06 {shangaslammi} Added the hollow studs' holes above the square channels
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 64 0] [grid=C 2 1 100 0]
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 4 8] [pos=0 -4 0] [ori=1 0 0 0 -1 0 0 0 -1] [grid=C 2 1 100 0]

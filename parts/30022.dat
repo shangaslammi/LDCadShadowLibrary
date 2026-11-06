@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Tipper End Type 2"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-11-06 {shangaslammi} Recorded the tilted hollow studs' bar holes with rigid frames
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=58.48 10.66 0] [ori=-0.498283875853 0.867013943985 0 0.867013943985 0.498283875853 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=-58.48 10.66 0] [ori=0.498283875853 -0.867013943985 0 0.867013943985 0.498283875853 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=48.48 27.98 0] [ori=-0.498283875853 0.867013943985 0 0.867013943985 0.498283875853 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=-48.48 27.98 0] [ori=0.498283875853 -0.867013943985 0 0.867013943985 0.498283875853 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=38.48 45.3 0] [ori=-0.498283875853 0.867013943985 0 0.867013943985 0.498283875853 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=-38.48 45.3 0] [ori=0.498283875853 -0.867013943985 0 0.867013943985 0.498283875853 0 0 0 1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=28.48 62.62 0] [ori=-0.498283875853 0.867013943985 0 0.867013943985 0.498283875853 0 0 0 -1]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 4] [pos=-28.48 62.62 0] [ori=0.498283875853 -0.867013943985 0 0.867013943985 0.498283875853 0 0 0 1]
