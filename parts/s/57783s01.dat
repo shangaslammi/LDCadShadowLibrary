@@ -4,6 +4,9 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2015-10-04 {Roland Melkert} Initial info for s\57783s01.dat
+0 !HISTORY 2026-11-09 {Brick Wrangler contributors} Completed the mirrored underside socket pair
 
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=-10 32 -20]
 0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=-30 32 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=10 32 -20]
+0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=30 32 -20]
