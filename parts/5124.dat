@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Plane Aft Section  6 x  8 x  4 with Opening"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-11-09 {Brick Wrangler contributors} Added the source-supported underside sockets on both aft platforms
+
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=-30 24 -70]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=-30 24 -50]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=-30 -64 50]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=-10 24 -70]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=-10 24 -50]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=-10 -64 50]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=-10 -64 70]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=10 24 -70]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=10 24 -50]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=10 -64 50]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=10 -64 70]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=30 24 -70]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=30 24 -50]
+0 !LDCAD SNAP_CYL [gender=F] [secs=S 6 4] [pos=30 -64 50]
