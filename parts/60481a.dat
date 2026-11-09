@@ -4,5 +4,5 @@
 0 !LICENSE CC BY-SA 4.0, see LICENSE.md
 
 0 !HISTORY 2024-06-03 {Jaco van der Molen} Initial info for 60481a.dat
+0 !HISTORY 2026-11-09 {Brick Wrangler contributors} Removed duplicate socket records already inherited from the symmetric holder subpart
 
-0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 48 -10] [ori=0 0 1 0 1 0 -1 0 0] [grid=C 2 1 20 0]
